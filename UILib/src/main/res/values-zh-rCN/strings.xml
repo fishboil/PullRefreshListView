@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">UILib</string>
+    <string name="xlistview_header_hint_normal">下拉刷新</string>
+    <string name="xlistview_header_hint_ready">松开开始刷新</string>
+    <string name="xlistview_header_hint_loading">正在加载...</string>
+    <string name="xlistview_header_last_time">时间：</string>
+    <string name="xlistview_footer_hint_normal">加载更多</string>
+    <string name="xlistview_footer_hint_ready">松开开始加载更多</string>
+
+    <string name="xlistview_header_hint_success">刷新成功</string>
+    <string name="xlistview_header_hint_failt">刷新失败</string>
+    <string name="xlistview_have_no_data">没有数据!</string>
+
+    <string name="xlistview_not_updated_yet">从未刷新</string>
+    <string name="xlistview_updated_at">上次刷新 %1$s</string>
+    <string name="xlistview_updated_just_now">刚刚刷新</string>
+    <string name="xlistview_time_error">时间错误</string>
+
+    <string name="xlist_minute">分钟</string>
+    <string name="xlist_day">天</string>
+    <string name="xlist_geyue">个月</string>
+    <string name="xlist_hour">小时</string>
+    <string name="xlist_year">年</string>
+
+</resources>
